@@ -6,7 +6,16 @@ Rules:
 * Set goals in morning, report at end of day
 * Ask Braxton to approve PR
 
-# 1 Aug 23
+## 2 Aug 23
+* Talk/email Tyler about SDG and Chap 7  
+* Get MP and autoGR data and compare (tried to do this---kept getting interrupted)  
+* Read 30 mins, make notes  
+* Work on 318 a bit  
+*  Anything on NNs or image AI
+* No checking email before 4:30
+* Stretch twice 
+
+## 1 Aug 23
 ✔️ Bike + strength training  
 ✔️  Get new ID card  
 ✔️ Meet with Mark, Jared, Tyler  
