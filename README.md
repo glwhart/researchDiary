@@ -7,15 +7,26 @@ Rules:
 * Ask Braxton to approve PR
 
 ## 2 Aug 23
+Plan:
 * Talk/email Tyler about SDG and Chap 7  
-* Get MP and autoGR data and compare 
+✔️ Get MP and autoGR data and compare 
 * Read 30 mins, make notes  
-* Work on 318 a bit  
-*  Anything on NNs or image AI
-* No checking email before 4:30
-* Stretch twice 
+✔️ Work on 318 a bit (worked on this A LOT) 
+* Anything on NNs or image AI
+✔️ No checking email before 4:30
+✔️ Stretch twice  
+✔️ Anki review  
 
-The code for doing the double descent plots with Mark are in the directory [projects/double_descent](/Users/glh43/home/projects/double_descent). The data for the `urgr` and `urmp` energies are in [juliaCodes/ClusterEnumeration.jl/data/](/Users/glh43/home/juliaCodes/ClusterEnumeration.jl/data/). Code used to do today's work on comparing data from two different kpoint meshes and CEs for each dataset: 
+Daily notes:
+
+The code for doing the double descent plots with Mark are in the directory [projects/double_descent](/Users/glh43/home/projects/double_descent). The data for the `urgr` and `urmp` energies are in [juliaCodes/ClusterEnumeration.jl/data/](/Users/glh43/home/juliaCodes/ClusterEnumeration.jl/data/). Code used to do today's work on comparing data from two different kpoint meshes and CEs for each dataset: `makeCE.jl`.
+
+The difference between autoGR and MP energies is really small. The ~4 meV outlier seems to be due to a really uneven kpoint spacing for the MP grid, much less dense in one direction.  
+![diffPlot](./../../../projects/double_descent/figures/MPvsGR.png)
+
+The fitting errors on both sets of data are also small.
+![MPerrors](./../../../projects/double_descent/figures/MPerrors.png)
+![GRerrors](./../../../projects/double_descent/figures/GRerrors.png)
 
 ## 1 Aug 23
 ✔️ Bike + strength training  
