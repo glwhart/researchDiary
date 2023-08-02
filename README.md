@@ -15,7 +15,7 @@ Rules:
 * No checking email before 4:30
 * Stretch twice 
 
-The code for doing the double descent plots with Mark are in the directory [projects/double_descent](/Users/glh43/home/projects/double_descent). The data for the `urgr` and `urmp` energies are in [juliaCodes/ClusterEnumeration.jl/data/](/Users/glh43/home/juliaCodes/ClusterEnumeration.jl/data/)
+The code for doing the double descent plots with Mark are in the directory [projects/double_descent](/Users/glh43/home/projects/double_descent). The data for the `urgr` and `urmp` energies are in [juliaCodes/ClusterEnumeration.jl/data/](/Users/glh43/home/juliaCodes/ClusterEnumeration.jl/data/). Code used to do today's work on comparing data from two different kpoint meshes and CEs for each dataset: 
 
 ## 1 Aug 23
 ✔️ Bike + strength training  
