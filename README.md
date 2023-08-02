@@ -8,13 +8,16 @@ Rules:
 
 # 1 Aug 23
 ✔️ Bike + strength training  
-🔲 Get new ID card  
-🔲 Meet with Mark, Jared, Tyler  
+✔️  Get new ID card  
+✔️ Meet with Mark, Jared, Tyler  
 🔲 Talk/email Tyler about SDG and Chap 7  
-🔲 Get MP and autoGR data and compare  
+🔲 Get MP and autoGR data and compare (tried to do this---kept getting interrupted)  
 🔲 Read 30 mins, make notes  
-🔲 Work on 318 a bit  
+✔️ Work on 318 a bit  
 🔲 Anything on NNs or image AI  
-🔲 Talk to Eric about 601 TA  
-🔲 Stretch twice  
-🔲 One extra positive interaction  
+✔️ Talk to Eric about 601 TA  
+✔️ Stretch twice (only did it once)  
+✔️ One extra positive interaction  
+
+Lost the whole afternoon to talking with potential students. Could have done more if that hadn't happened. Stayed off email most of the day, but didn't do it at the end of the day as planned...
+
