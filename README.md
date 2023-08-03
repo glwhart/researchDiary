@@ -9,14 +9,21 @@ Rules:
 ## 3 Aug 23
 Plan:
 ✔️ Bike + strength training
-* Talk/email Tyler/Rod about SDG and Chap 7  
+✔️ Talk/email Tyler/Rod about SDG and Chap 7  
 * Read 30 mins, make notes  
 * Work on 318 or 601 a bit 
 * Anything on NNs or image AI
-* No checking email before 4:30
-* Stretch twice
-* Feedback on the Oliver paper. Argh.
+* No checking email before 4:30 (didn't do this well, but better than average)
+* Stretch twice (only did it once)
+✔️ Feedback on the Oliver paper. Argh.
 ✔️ Get housing for NSF trip
+
+
+Reached out to Alejandro for some insight on the cluster enumeration problem.
+
+Getting the feedback on the paper to Oliver was critical and time consuming. And the CE reading/thinking was important.
+
+A pretty good day for productivity.
 
 ## 2 Aug 23
 Plan:
