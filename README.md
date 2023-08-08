@@ -6,6 +6,45 @@ Rules:
 * Set goals in morning, report at end of day
 * Ask Braxton to approve PR
 
+
+## 8 Aug 23
+Plan:
+✔️ Meet with Mark, Tyler, Jared about DD paper
+✔️ Work on DD paper
+* Vania email/doc
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+✔️ No checking email before 4:30
+* Stretch twice ✔️
+* submit receipts
+
+Focused exclusively on the invariant polynomial stuff for CE today. Made some great connections between the chebyschev stuff and the invariant poly stuff. Took good notes in my rocketbook.
+
+## 7 Aug 23
+Plan:
+✔️ Bike + strength training (fastest bike ever, 8 chinups maxxed)
+✔️ Talk Tyler about invariant polynomials, making basis orthornormal, restricting the field 
+* Read 30 mins, make notes  
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+* No checking email before 4:30
+* Stretch twice
+* submit reciepts
+
+I spent most of my discretionary time talking to Tyler and working on an example.
+ 
+
+
+## 4 Aug 23
+Plan:
+✔️ Talk/email Tyler/Rod about SDG and Chap 7  
+* Read 30 mins, make notes  
+✔️ Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+* No checking email before 4:30
+✔️ Stretch twice (did it three times)
+
+
 ## 3 Aug 23
 Plan:
 ✔️ Bike + strength training
@@ -61,4 +100,3 @@ The fitting errors on both sets of data are also small.
 ✔️ One extra positive interaction  
 
 Lost the whole afternoon to talking with potential students. Could have done more if that hadn't happened. Stayed off email most of the day, but didn't do it at the end of the day as planned...
-
