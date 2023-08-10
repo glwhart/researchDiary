@@ -6,10 +6,22 @@ Rules:
 * Set goals in morning, report at end of day
 * Ask Braxton to approve PR
 
+## 10 Aug 23
+Plan:
+* Code for discrete chebyshevs, with unit tests
+* Preliminary code for cluster function averages over structures
+* Read 30 mins, make notes  
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+* No checking email between 7:15 am and 4:30 pm
+* Stretch twice
+* submit receipts
+✔️ Respond to Vania
+
 ## 9 Aug 23
 Plan:
 ✔️ Bike
-* Email Tyler about what I learned yesterday.  
+✔️ Email Tyler about what I learned yesterday.  
 * Read 30 mins, make notes  
 * Work on 318 or 601 a bit 
 * Anything on NNs or image AI
