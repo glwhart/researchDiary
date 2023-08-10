@@ -6,6 +6,18 @@ Rules:
 * Set goals in morning, report at end of day
 * Ask Braxton to approve PR
 
+## 9 Aug 23
+Plan:
+✔️ Bike
+* Email Tyler about what I learned yesterday.  
+* Read 30 mins, make notes  
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+✔️ No checking email before 4:30
+✔️ Stretch twice
+* submit receipts
+
+Spent hours learning about *discrete* orthogonal polynomials and their intervals. Would like to redo CE with a different choice. Saved some papers to "Cluster Expansion" in zotero.  
 
 ## 8 Aug 23
 Plan:
