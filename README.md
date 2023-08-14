@@ -6,17 +6,87 @@ Rules:
 * Set goals in morning, report at end of day
 * Ask Braxton to approve PR
 
-## 3 Aug 23
+## 10 Aug 23
 Plan:
-✔️ Bike + strength training
-* Talk/email Tyler/Rod about SDG and Chap 7  
+* Code for discrete chebyshevs, with unit tests
+* Preliminary code for cluster function averages over structures
+* Read 30 mins, make notes  
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+* No checking email between 7:15 am and 4:30 pm
+* Stretch twice
+* submit receipts
+✔️ Respond to Vania
+
+## 9 Aug 23
+Plan:
+✔️ Bike
+✔️ Email Tyler about what I learned yesterday.  
+* Read 30 mins, make notes  
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+✔️ No checking email before 4:30
+✔️ Stretch twice
+* submit receipts
+
+Spent hours learning about *discrete* orthogonal polynomials and their intervals. Would like to redo CE with a different choice. Saved some papers to "Cluster Expansion" in zotero.  
+
+## 8 Aug 23
+Plan:
+✔️ Meet with Mark, Tyler, Jared about DD paper
+✔️ Work on DD paper
+* Vania email/doc
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+✔️ No checking email before 4:30
+* Stretch twice ✔️
+* submit receipts
+
+Focused exclusively on the invariant polynomial stuff for CE today. Made some great connections between the chebyschev stuff and the invariant poly stuff. Took good notes in my rocketbook.
+
+## 7 Aug 23
+Plan:
+✔️ Bike + strength training (fastest bike ever, 8 chinups maxxed)
+✔️ Talk Tyler about invariant polynomials, making basis orthornormal, restricting the field 
 * Read 30 mins, make notes  
 * Work on 318 or 601 a bit 
 * Anything on NNs or image AI
 * No checking email before 4:30
 * Stretch twice
-* Feedback on the Oliver paper. Argh.
+* submit reciepts
+
+I spent most of my discretionary time talking to Tyler and working on an example.
+ 
+
+
+## 4 Aug 23
+Plan:
+✔️ Talk/email Tyler/Rod about SDG and Chap 7  
+* Read 30 mins, make notes  
+✔️ Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+* No checking email before 4:30
+✔️ Stretch twice (did it three times)
+
+
+## 3 Aug 23
+Plan:
+✔️ Bike + strength training
+✔️ Talk/email Tyler/Rod about SDG and Chap 7  
+* Read 30 mins, make notes  
+* Work on 318 or 601 a bit 
+* Anything on NNs or image AI
+* No checking email before 4:30 (didn't do this well, but better than average)
+* Stretch twice (only did it once)
+✔️ Feedback on the Oliver paper. Argh.
 ✔️ Get housing for NSF trip
+
+
+Reached out to Alejandro for some insight on the cluster enumeration problem.
+
+Getting the feedback on the paper to Oliver was critical and time consuming. And the CE reading/thinking was important.
+
+A pretty good day for productivity.
 
 ## 2 Aug 23
 Plan:
@@ -54,4 +124,3 @@ The fitting errors on both sets of data are also small.
 ✔️ One extra positive interaction  
 
 Lost the whole afternoon to talking with potential students. Could have done more if that hadn't happened. Stayed off email most of the day, but didn't do it at the end of the day as planned...
-
